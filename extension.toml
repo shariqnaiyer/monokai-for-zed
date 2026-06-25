@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["snaiyer <snaiyer@effortlessadmin.com>"]
 description = "The full Monokai family for Zed: Monokai, Monokai Classic, Monokai Dimmed, Monokai Pro, the four Pro filters (Machine, Octagon, Ristretto, Spectrum), plus Monokai Pro Light and Light (Filter Sun)."
-repository = "https://github.com/snaiyer/monokai-for-zed"
+repository = "https://github.com/shariqnaiyer/monokai-for-zed"

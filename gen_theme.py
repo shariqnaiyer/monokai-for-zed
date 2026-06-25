@@ -275,7 +275,7 @@ themes = [{"name": n, "appearance": p["appearance"], "style": style(p)}
 family = {
     "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
     "name": "Monokai",
-    "author": "Generated for Zed",
+    "author": "Shariq Naiyer",
     "themes": themes,
 }
 target = os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes", "monokai.json")
